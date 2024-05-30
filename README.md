@@ -1,5 +1,8 @@
 # rick_morty
 
+## Проект доступен по ссылке 
+https://abibullaevar.github.io/rick_morty/dist/index.html
+
 ## Project setup
 ```
 npm install
